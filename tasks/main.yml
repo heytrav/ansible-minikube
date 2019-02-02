@@ -28,11 +28,10 @@
 
 - name: Install a few packages that we need for the course
   apt:
-    name: "{{ item }}"
+    name:
+      - virtualbox
+      - tree
     state: present
-  with_items:
-    - virtualbox
-    - tree
 
 - name: Install minikube
   get_url: 
