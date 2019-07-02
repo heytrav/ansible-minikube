@@ -1,3 +1,4 @@
 ---
-version: v0.33.1
-checksum: 8a5effbbe6a847eb61e676b6ad62883d9c19abe75452d766043f41a59248f191
+version: v1.2.0
+checksum: 123fc9f5656333fb2927cf91666a91cd5b28ef97503418ac2a90a2109e518ed9
+virtualbox_version: 6.0
