@@ -1,4 +1,4 @@
 ---
 version: v1.2.0
 checksum: 123fc9f5656333fb2927cf91666a91cd5b28ef97503418ac2a90a2109e518ed9
-virtualbox_version: 6.0
+virtualbox_version: virtualbox-6.0

@@ -7,7 +7,7 @@
 - name: Install a few packages that we need for the course
   apt:
     name:
-      - "virtualbox-{{ virtualbox_version }}"
+      - "{{ virtualbox_package }}"
       - tree
     state: present
 
